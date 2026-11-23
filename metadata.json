@@ -1,0 +1,6 @@
+{
+  "name": "Aura Dental Studio - Premium Modern Dental Clinic",
+  "description": "Experience world-class dental care with state-of-the-art technology, cosmetic dentistry, and gentle patient-first treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
